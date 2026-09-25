@@ -1,2 +1,2 @@
-# sync_nris
-sync_nirs
+# sync_nirs
+ 
